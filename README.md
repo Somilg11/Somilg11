@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Somil Gupta and I'm a FullStack Web Developer, from India</h2>
+<h1 align="center">Hi 👋, I'm Somil Gupta</h1>
+<h3 align="center">A passionate fullstack web developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somilg11&label=Profile%20views&color=0e75b6&style=flat" alt="somilg11" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somilg11" alt="somilg11" /></a> </p>
+
+- 🔭 I’m currently working on **Node JS project**
+
+- 🌱 I’m currently learning **Next JS, Docker**
+
+- 💬 Ask me about **Javascript, React**
+
+- 📫 How to reach me **gsomil93@gmail.com**
 
 ###
 
