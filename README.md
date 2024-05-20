@@ -57,10 +57,6 @@
 
 ###
 
-/*<img src="https://raw.githubusercontent.com/Somilg11/Somilg11/output/snake.svg" alt="Snake animation" />*/
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Somilg11/count.svg?"  />
 </div>
