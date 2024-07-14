@@ -60,8 +60,8 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />
-<img width="12" />
+<!-- <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />
+<img width="12" /> -->
 <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="30" alt="appwrite logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" />
