@@ -1,8 +1,4 @@
-<a href="https://github.com/Somilg11">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" height="300" alt="MasterHead">
-</a>
-
-
+[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/Somilg11)
 
 <h1 align="center">Hi 👋, I'm Somil Gupta</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
