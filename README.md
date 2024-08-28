@@ -1,3 +1,9 @@
+###
+
+<img align="center" height="150" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240828T093328Z&X-Amz-Expires=300&X-Amz-Signature=c07a1e9cd4a1473ee7a172f7d1f720365c36366723a55cfa2cd1d9c49d0a908d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=588181932"  />
+
+###
+
 <h1 align="center">Hi 👋, I'm Somil Gupta</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <br>
