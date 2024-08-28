@@ -1,5 +1,5 @@
 <a href="https://github.com/Somilg11">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" height="450" alt="MasterHead">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" height="300" alt="MasterHead">
 </a>
 
 
