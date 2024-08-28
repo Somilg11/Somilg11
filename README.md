@@ -1,4 +1,4 @@
-[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240828T100233Z&X-Amz-Expires=300&X-Amz-Signature=122a1b98a413714a376c8d1047e30e74772faf7aeb9e3457ed0c0f6f73fc4688&X-Amz-SignedHeaders=host&actor_id=142201449&key_id=0&repo_id=588181932)](https://github.com/Somilg11)
+[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/Somilg11)
 
 <h1 align="center">Hi 👋, I'm Somil Gupta</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
