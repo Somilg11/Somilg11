@@ -72,8 +72,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
-  <img width="12" /> -->
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
