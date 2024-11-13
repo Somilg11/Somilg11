@@ -1,14 +1,16 @@
 [![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/Somilg11)
 
 <h1 align="center">Hi 👋, I'm Somil Gupta</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate fullstack web developer & AIML Enthusiast from India</h3>
 <br>
 
-- 🔭 I’m currently working on **Node JS project**
+- @mern - <a href="https://github.com/strangecode93" target="_blank">Web projects</a>
 
-- 🌱 I’m currently learning **Next JS, Docker**
+- 🔭 I’m currently working on **Next JS project**
 
-- 💬 Ask me about **Javascript, React**
+- 🌱 I’m currently learning **NLP, ML**
+
+- 💬 Ask me about **MERN, Next**
 
 - 📫 How to reach me **gsomil93@gmail.com**
 
