@@ -62,8 +62,8 @@
 <!--   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="30" alt="appwrite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
@@ -86,13 +86,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="rust logo"  /> -->
-<!--   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="30" alt="apachekafka logo"  /> -->
+<!--   <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
+  <img width="12" /> -->
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
 </div>
 
 ###
