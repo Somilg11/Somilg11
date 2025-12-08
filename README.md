@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <h1>Somil Gupta 🇮🇳</h1>
+  <h1>_somil_gupta_</h1>
   <h3>Fullstack Dev | AI Engineer | Professional Stack Overflow Copy-Paster</h3>
 </div>
 
@@ -42,13 +42,16 @@
 <h3>🛠️ Weapons of Choice</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,prisma,docker,git,bash&perline=17&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,prisma,supabase,docker,rabbitmq,git,postman,bash&perline=10&theme=dark" />
   </a>
 </p>
 
 <div align="center">
   <h3>🌐 Stalk me (Professionally)</h3>
   
+  <a href="https://gsomil.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=todoist&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/somil-gupta-3740ab27b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
