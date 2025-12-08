@@ -1,130 +1,84 @@
-[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://github.com/Somilg11)
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" style="border-radius: 10px;" alt="Header GIF" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Somil Gupta</h1>
-<h3 align="center">A passionate fullstack web developer & AIML Enthusiast from India</h3>
-<br>
-
-- @mern - <a href="https://github.com/strangecode93" target="_blank">Web projects</a>
-
-- 🔭 I’m currently working on **Next JS project**
-
-- 🌱 I’m currently learning **NLP, ML**
-
-- 💬 Ask me about **MERN, Next**
-
-- 📫 How to reach me **gsomil93@gmail.com**
-
-###
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somilg11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somilg11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <h1 align="center">Hi, I'm Somil Gupta 👋</h1>
+  <h3 align="center">Fullstack Developer | AI/ML Enthusiast | Professional Google Searcher</h3>
+  <p>
+    <em>"I write code that works on my machine (and usually on production too)."</em>
+  </p>
 </div>
 
-###
+<br />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  /> -->
-<!--   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="30" alt="appwrite logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 The "About Me"</h3>
+      <br />
+      <ul>
+        <li>
+          🔭 <strong>Currently working on:</strong> Making <strong>Next.js</strong> behave and pretending I understand <strong>NLP</strong> perfectly.
+        </li>
+        <li>
+          🌱 <strong>Currently learning:</strong> How to center a <code>div</code> on the first try and Machine Learning.
+        </li>
+        <li>
+          🐛 <strong>Superpower:</strong> I can turn caffeine into code and perfectly good code into spaghetti.
+        </li>
+        <li>
+          💬 <strong>Ask me about:</strong> The MERN stack, why your build failed, or the philosophical implications of AI.
+        </li>
+        <li>
+          📫 <strong>Reach me:</strong> <a href="mailto:gsomil93@gmail.com">gsomil93@gmail.com</a> (Please no "Hello World" emails).
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📊 The Receipts</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Somilg11&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" width="100%" alt="Stats" />
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somilg11&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117" width="100%" alt="Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/somil_1101/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<h3>🛠️ The Arsenal</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,prisma,supabase,docker,rabbitmq,git,postman,bash&perline=10&theme=dark" />
   </a>
-  <a href="gsomil93@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+</p>
+
+<div align="center">
+  <h3>🌐 Let's Connect (Before the AI takes over)</h3>
+  
   <a href="https://www.linkedin.com/in/somil-gupta-3740ab27b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/somil_1101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/somil_1101/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://stackoverflow.com/users/23076150/somil-gupta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
+  <a href="mailto:gsomil93@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <br /><br />
+  
+  <img src="https://profile-counter.glitch.me/Somilg11/count.svg?" alt="Visitor Count" />
+  
+  <br /><br />
+  
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Walking Cat" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/E8GfFH47PKeyI/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Somilg11/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-</div>
-
-###
