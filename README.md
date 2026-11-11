@@ -42,7 +42,7 @@
 <h3>🛠️ Weapons of Choice</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,prisma,supabase,docker,rabbitmq,git,postman,bash&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go,rust,react,nextjs,nodejs,express,mongodb,postgres,redis,prisma,nestjs,fastapi,docker,rabbitmq,git,aws&perline=10&theme=dark" />
   </a>
 </p>
 
